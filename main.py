@@ -36,3 +36,6 @@ if color == 'G':
 if color == 'B':
     df_hist = pd.DataFrame(hist_blue)
     st.bar_chart(df_hist)
+
+# print message
+print("This page shows RGB histograms of the photo of Mt Fuji.")
