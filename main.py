@@ -38,4 +38,5 @@ if color == 'B':
     st.bar_chart(df_hist)
 
 # print message
+print("This message is test.")
 print("This page shows RGB histograms of the photo of Mt Fuji.")
